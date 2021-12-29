@@ -13,3 +13,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.Pokedex-message {
+    color: red;
+}
